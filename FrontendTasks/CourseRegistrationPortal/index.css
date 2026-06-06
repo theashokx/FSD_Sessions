@@ -1,0 +1,17 @@
+.logo {
+  width: 80px;
+  height: 80px;
+  transform: scale(3);
+}
+.nav-link {
+  color: #333;
+  padding: 8px 18px !important;
+  border-radius: 25px;
+  margin: 0 5px;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  background-color: #0d6efd;
+  color: white !important;
+}
