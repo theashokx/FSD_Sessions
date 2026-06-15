@@ -335,37 +335,37 @@
 //   .then((food) => deliveredOrder(food))
 //   .catch((err) => console.log(err));
 
-function getUser() {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve({ id: 1, name: "Surya" });
-    }, 1000);
-  });
-}
+// function getUser() {
+//   return new Promise((resolve) => {
+//     setTimeout(() => {
+//       resolve({ id: 1, name: "Surya" });
+//     }, 1000);
+//   });
+// }
 
-getUser()
-  .then((user) => {
-    console.log(user);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
+// getUser()
+//   .then((user) => {
+//     console.log(user);
+//   })
+//   .catch((error) => {
+//     console.log(error);
+//   });
 
-function getUser() {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve({ id: 1, name: "Surya" });
-    }, 1000);
-  });
-}
+// function getUser() {
+//   return new Promise((resolve) => {
+//     setTimeout(() => {
+//       resolve({ id: 1, name: "Surya" });
+//     }, 1000);
+//   });
+// }
 
-async function fetchUser() {
-  try {
-    const user = await getUser();
-    console.log(user);
-  } catch (error) {
-    console.log(error);
-  }
-}
+// async function fetchUser() {
+//   try {
+//     const user = await getUser();
+//     console.log(user);
+//   } catch (error) {
+//     console.log(error);
+//   }
+// }
 
-fetchUser();
+// fetchUser();
