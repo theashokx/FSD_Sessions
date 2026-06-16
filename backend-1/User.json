@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "age": 22,
+    "email": "rahul1@example.com",
+    "mobile": "9876543201"
+  },
+  {
+    "id": 2,
+    "name": "Priya Reddy",
+    "age": 24,
+    "email": "priya2@example.com",
+    "mobile": "9876543202"
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "age": 21,
+    "email": "amit3@example.com",
+    "mobile": "9876543203"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Patel",
+    "age": 23,
+    "email": "sneha4@example.com",
+    "mobile": "9876543204"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "age": 25,
+    "email": "vikram5@example.com",
+    "mobile": "9876543205"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Gupta",
+    "age": 20,
+    "email": "anjali6@example.com",
+    "mobile": "9876543206"
+  },
+  {
+    "id": 7,
+    "name": "Kiran Rao",
+    "age": 27,
+    "email": "kiran7@example.com",
+    "mobile": "9876543207"
+  },
+  {
+    "id": 8,
+    "name": "Meera Nair",
+    "age": 22,
+    "email": "meera8@example.com",
+    "mobile": "9876543208"
+  },
+  {
+    "id": 9,
+    "name": "Arjun Verma",
+    "age": 26,
+    "email": "arjun9@example.com",
+    "mobile": "9876543209"
+  },
+  {
+    "id": 10,
+    "name": "Pooja Das",
+    "age": 24,
+    "email": "pooja10@example.com",
+    "mobile": "9876543210"
+  },
+  {
+    "id": 11,
+    "name": "Rohit Jain",
+    "age": 23,
+    "email": "rohit11@example.com",
+    "mobile": "9876543211"
+  },
+  {
+    "id": 12,
+    "name": "Gautam Menon",
+    "age": 21,
+    "email": "gautam@example.com",
+    "mobile": "9876543212"
+  },
+  {
+    "id": 13,
+    "name": "Suresh Kumar",
+    "age": 28,
+    "email": "suresh13@example.com",
+    "mobile": "9876543213"
+  },
+  {
+    "id": 14,
+    "name": "Neha Joshi",
+    "age": 22,
+    "email": "neha14@example.com",
+    "mobile": "9876543214"
+  },
+  {
+    "id": 15,
+    "name": "Ravi Teja",
+    "age": 25,
+    "email": "ravi15@example.com",
+    "mobile": "9876543215"
+  },
+  {
+    "id": 16,
+    "name": "Kavya Rao",
+    "age": 20,
+    "email": "kavya16@example.com",
+    "mobile": "9876543216"
+  },
+  {
+    "id": 17,
+    "name": "Harish Yadav",
+    "age": 24,
+    "email": "harish17@example.com",
+    "mobile": "9876543217"
+  },
+  {
+    "id": 18,
+    "name": "Nisha Kapoor",
+    "age": 23,
+    "email": "nisha18@example.com",
+    "mobile": "9876543218"
+  },
+  {
+    "id": 19,
+    "name": "Manoj Reddy",
+    "age": 26,
+    "email": "manoj19@example.com",
+    "mobile": "9876543219"
+  },
+  {
+    "id": 20,
+    "name": "Asha Devi",
+    "age": 21,
+    "email": "asha20@example.com",
+    "mobile": "9876543220"
+  },
+  {
+    "id": 21,
+    "name": "Tarun Kumar",
+    "age": 27,
+    "email": "tarun21@example.com",
+    "mobile": "9876543221"
+  },
+  {
+    "id": 22,
+    "name": "Bhavana Singh",
+    "age": 22,
+    "email": "bhavana22@example.com",
+    "mobile": "9876543222"
+  },
+  {
+    "id": 23,
+    "name": "Deepak Sharma",
+    "age": 24,
+    "email": "deepak23@example.com",
+    "mobile": "9876543223"
+  },
+  {
+    "id": 24,
+    "name": "Shreya Patel",
+    "age": 23,
+    "email": "shreya24@example.com",
+    "mobile": "9876543224"
+  },
+  {
+    "id": 25,
+    "name": "Naveen Rao",
+    "age": 25,
+    "email": "naveen25@example.com",
+    "mobile": "9876543225"
+  },
+  {
+    "id": 26,
+    "name": "Lakshmi Devi",
+    "age": 21,
+    "email": "lakshmi26@example.com",
+    "mobile": "9876543226"
+  },
+  {
+    "id": 27,
+    "name": "Ajay Kumar",
+    "age": 28,
+    "email": "ajay27@example.com",
+    "mobile": "9876543227"
+  },
+  {
+    "id": 28,
+    "name": "Keerthi Reddy",
+    "age": 22,
+    "email": "keerthi28@example.com",
+    "mobile": "9876543228"
+  },
+  {
+    "id": 29,
+    "name": "Sandeep Verma",
+    "age": 24,
+    "email": "sandeep29@example.com",
+    "mobile": "9876543229"
+  },
+  {
+    "id": 30,
+    "name": "Anu Joseph",
+    "age": 23,
+    "email": "anu30@example.com",
+    "mobile": "9876543230"
+  },
+  {
+    "id": 31,
+    "name": "Rakesh Gupta",
+    "age": 26,
+    "email": "rakesh31@example.com",
+    "mobile": "9876543231"
+  },
+  {
+    "id": 32,
+    "name": "Madhavi Rao",
+    "age": 20,
+    "email": "madhavi32@example.com",
+    "mobile": "9876543232"
+  },
+  {
+    "id": 33,
+    "name": "Karthik Reddy",
+    "age": 25,
+    "email": "karthik33@example.com",
+    "mobile": "9876543233"
+  },
+  {
+    "id": 34,
+    "name": "Pallavi Sharma",
+    "age": 22,
+    "email": "pallavi34@example.com",
+    "mobile": "9876543234"
+  },
+  {
+    "id": 35,
+    "name": "Ganesh Kumar",
+    "age": 27,
+    "email": "ganesh35@example.com",
+    "mobile": "9876543235"
+  },
+  {
+    "id": 36,
+    "name": "Reshma Nair",
+    "age": 23,
+    "email": "reshma36@example.com",
+    "mobile": "9876543236"
+  },
+  {
+    "id": 37,
+    "name": "Sai Teja",
+    "age": 24,
+    "email": "saiteja37@example.com",
+    "mobile": "9876543237"
+  },
+  {
+    "id": 38,
+    "name": "Monika Das",
+    "age": 21,
+    "email": "monika38@example.com",
+    "mobile": "9876543238"
+  },
+  {
+    "id": 39,
+    "name": "Praveen Singh",
+    "age": 28,
+    "email": "praveen39@example.com",
+    "mobile": "9876543239"
+  },
+  {
+    "id": 40,
+    "name": "Swathi Reddy",
+    "age": 22,
+    "email": "swathi40@example.com",
+    "mobile": "9876543240"
+  },
+  {
+    "id": 41,
+    "name": "Abhishek Jain",
+    "age": 24,
+    "email": "abhishek41@example.com",
+    "mobile": "9876543241"
+  },
+  {
+    "id": 42,
+    "name": "Nandini Rao",
+    "age": 23,
+    "email": "nandini42@example.com",
+    "mobile": "9876543242"
+  },
+  {
+    "id": 43,
+    "name": "Srinivas Kumar",
+    "age": 26,
+    "email": "srinivas43@example.com",
+    "mobile": "9876543243"
+  },
+  {
+    "id": 44,
+    "name": "Harika Devi",
+    "age": 21,
+    "email": "harika44@example.com",
+    "mobile": "9876543244"
+  },
+  {
+    "id": 45,
+    "name": "Venu Gopal",
+    "age": 27,
+    "email": "venu45@example.com",
+    "mobile": "9876543245"
+  },
+  {
+    "id": 46,
+    "name": "Chandana Reddy",
+    "age": 22,
+    "email": "chandana46@example.com",
+    "mobile": "9876543246"
+  },
+  {
+    "id": 47,
+    "name": "Ramesh Patel",
+    "age": 25,
+    "email": "ramesh47@example.com",
+    "mobile": "9876543247"
+  },
+  {
+    "id": 48,
+    "name": "Soumya Nair",
+    "age": 23,
+    "email": "soumya48@example.com",
+    "mobile": "9876543248"
+  },
+  {
+    "id": 49,
+    "name": "Varun Sharma",
+    "age": 24,
+    "email": "varun49@example.com",
+    "mobile": "9876543249"
+  },
+  {
+    "id": 50,
+    "name": "Tejaswini Rao",
+    "age": 22,
+    "email": "tejaswini50@example.com",
+    "mobile": "9876543250"
+  }
+]
